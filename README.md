@@ -8,7 +8,7 @@ The Collatz Conjecture is a mathematical problem that involves an iterative proc
 
 The conjecture is that no matter what positive integer you start with, you will always eventually reach the number 1.
 
-The example in this repository is the collatz conjecture sequence of a starting number 10.
+The examples in this repository are the collatz conjecture sequence of a starting number 10.
 
 ## Usage
 
