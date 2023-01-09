@@ -16,7 +16,8 @@ class CollatzGUI:
         self.root.title("Collatz GUI")
 
         self.root.geometry("500x500")
-
+        self.root.minsize(320,425)
+        
         self.num = 1
 
         label = customtkinter.CTkLabel(self.root, text="Enter a positive integer:")
